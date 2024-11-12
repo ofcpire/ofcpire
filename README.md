@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hello there!
+Welcome to ofcpire's github repository.
 
-<!--
-**ofcpire/ofcpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+### Front-end
+[![front](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,redux,)](https://skillicons.dev)
+### Back-end
+[![back](https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs)](https://skillicons.dev)
+### Dev tools
+[![dev](https://skillicons.dev/icons?i=vscode,git,aws)](https://skillicons.dev)
+### Graphic tools
+[![graphic](https://skillicons.dev/icons?i=ps,ai,ae)](https://skillicons.dev)
